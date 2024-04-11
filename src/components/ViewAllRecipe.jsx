@@ -12,9 +12,9 @@ const VIewAllRecipe = () => {
 
                         <div className="row g-3">
 
-                            <div className="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                            <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
 
-                                <div class="card">
+                                <div class="card h-100">
                                     <img src="https://img.taste.com.au/Zyq8Lb5M/w720-h480-cfill-q80/taste/2016/11/easy-fried-rice-187086-1.jpg"
                                         class="card-img-top" alt="..." />
                                     <div class="card-body">
@@ -24,9 +24,9 @@ const VIewAllRecipe = () => {
                                 </div>
 
                             </div>
-                            <div className="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                            <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
 
-                                <div class="card">
+                                <div class="card h-100">
                                     <img src="https://img.taste.com.au/cQSEA7BY/w720-h480-cfill-q80/taste/2016/11/curried-sausages-72753-1.jpeg"
                                         class="card-img-top" alt="..." />
                                     <div class="card-body">
@@ -36,10 +36,10 @@ const VIewAllRecipe = () => {
                                 </div>
 
                             </div>
-                            <div className="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                            <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
 
 
-                                <div class="card">
+                                <div class="card h-100">
                                     <img src="https://img.taste.com.au/_c1oK4CI/w720-h480-cfill-q80/taste/2015/07/basic-chicken-and-vegetable-stirfry_1980x1320-117899-1.jpg"
                                         class="card-img-top" alt="..." />
                                     <div class="card-body">
@@ -49,10 +49,10 @@ const VIewAllRecipe = () => {
                                 </div>
 
                             </div>
-                            <div className="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                            <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
 
 
-                                <div class="card">
+                                <div class="card h-100">
                                     <img src="https://img.taste.com.au/ZLg6vu22/w720-h480-cfill-q80/taste/2016/11/easy-butter-chicken-74432-1.jpeg"
                                         class="card-img-top" alt="..." />
                                     <div class="card-body">
@@ -62,10 +62,10 @@ const VIewAllRecipe = () => {
                                 </div>
 
                             </div>
-                            <div className="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                            <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
 
 
-                                <div class="card">
+                                <div class="card h-100">
                                     <img src="https://img.taste.com.au/TQE9q0BJ/w720-h480-cfill-q80/taste/2016/12/best-easy-spaghetti-carbonara-193147-2.jpg"
                                         class="card-img-top" alt="..." />
                                     <div class="card-body">
@@ -75,9 +75,9 @@ const VIewAllRecipe = () => {
                                 </div>
 
                             </div>
-                            <div className="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                            <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
 
-                                <div class="card">
+                                <div class="card h-100">
                                     <img src="https://img.taste.com.au/jWj_REwj/w720-h480-cfill-q80/taste/2016/11/spaghetti-bolognese-118369-2.jpg"
                                         class="card-img-top" alt="..." />
                                     <div class="card-body">
@@ -87,9 +87,9 @@ const VIewAllRecipe = () => {
                                 </div>
 
                             </div>
-                            <div className="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                            <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
 
-                                <div class="card">
+                                <div class="card h-100">
                                     <img src="https://img.taste.com.au/ClpmWEdb/w720-h480-cfill-q80/taste/2010/01/potato-and-leek-soup_1980x1320-118410-1.jpg"
                                         class="card-img-top" alt="..." />
                                     <div class="card-body">
@@ -99,9 +99,9 @@ const VIewAllRecipe = () => {
                                 </div>
 
                             </div>
-                            <div className="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                            <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
 
-                                <div class="card">
+                                <div class="card h-100">
                                     <img src="https://img.taste.com.au/Tb48pFD6/w720-h480-cfill-q80/taste/2016/11/basic-beef-burger_1980x1320-118412-1.jpg"
                                         class="card-img-top" alt="..." />
                                     <div class="card-body">
