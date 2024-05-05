@@ -1,16 +1,18 @@
 import React from 'react'
 import RecipeNavbar from './RecipeNavbar'
 
-
 const SearchRecipe = () => {
     return (
         <div>
-            <RecipeNavbar/>
+            <RecipeNavbar />
+            <br />
             <div className="container">
                 <div className="row">
                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 
                         <div className="row g-3">
+                         
+                            <h5>Find a recipe or ingrediant</h5>
                             <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 
                                 <label htmlFor="" className="form-label">Recipe Title</label>
@@ -19,14 +21,14 @@ const SearchRecipe = () => {
                             </div>
                             <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 
-                                <button className="btn btn-success">Search</button>
+                                <button className="btn btn-primary">Search</button>
+
                             </div>
                         </div>
 
                     </div>
                 </div>
             </div>
-
         </div>
     )
 }

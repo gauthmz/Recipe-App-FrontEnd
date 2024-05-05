@@ -1,12 +1,11 @@
 import React from 'react'
 
 const RecipeNavbar = () => {
-  return (
-    <div>
-           
+    return (
+        <div>
             <nav class="navbar navbar-expand-lg bg-body-tertiary">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="/">Recipe App</a>
+                    <a class="navbar-brand" href="/view">Recipe App</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -21,15 +20,12 @@ const RecipeNavbar = () => {
                             <li class="nav-item">
                                 <a class="nav-link" href="/view">View All Recipe</a>
                             </li>
-                           
-                            
                         </ul>
                     </div>
                 </div>
             </nav>
-
         </div>
-  )
+    )
 }
 
 export default RecipeNavbar
